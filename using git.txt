@@ -1,0 +1,24 @@
+Opening
+
+1) code . # opens the vs code on the current directory
+
+Saving
+Commit
+New file
+1) git add name_of_file.py # staged file on git repo
+2) git commit -m 'enter what the file is'
+
+Tracked File (file already on git repo)
+1) git commit -am 'enter what changes were made here'
+
+Pushing
+1) git push
+
+Updating Repo
+1) git pull # pulls from git hub
+
+Downloading Github Repo on New Computer
+1) git clone 'git@github link of repo'
+
+Best Friend
+1) git status # shows if file is modified, any merger conflicts, untracked files, etc...
