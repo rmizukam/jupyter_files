@@ -20,5 +20,8 @@ Updating Repo
 Downloading Github Repo on New Computer
 1) git clone 'git@github link of repo'
 
+Removing Files 
+1) rm file_name
+
 Best Friend
 1) git status # shows if file is modified, any merger conflicts, untracked files, etc...
